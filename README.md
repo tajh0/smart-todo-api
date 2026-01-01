@@ -119,6 +119,9 @@ http://127.0.0.1:8000/docs
 ## 🔒 Authorization Header
 
 ```
+Username
+Password
+or
 Authorization: Bearer <access_token>
 ```
 
@@ -147,16 +150,7 @@ password=123456
 ## ⚠️ Common Errors
 
 - **401 Unauthorized:** Token missing or expired  
-- **500 Server Error:** MongoDB not running or dependency issue  
-
----
-
-## 🎓 Use Cases
-
-- College Project  
-- REST API Practice  
-- JWT Authentication Demo  
-- MongoDB Integration Example  
+- **500 Server Error:** MongoDB not running or dependency issue    
 
 ---
 
